@@ -1,0 +1,1 @@
+def ok(op): return {"status":"ok","operacao":op}
