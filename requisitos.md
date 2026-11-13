@@ -1,0 +1,1 @@
+Requisitos funcionais e nao funcionais.
